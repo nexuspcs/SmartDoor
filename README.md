@@ -11,3 +11,4 @@ This folder has all the ESPS232 code. Written in C++.
 ___
 
 This repo contains the code for a project that I am working on for an assignment. 
+I am mainly using this repo for source control, and to back-track if any errors arise. 
