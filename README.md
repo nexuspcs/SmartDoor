@@ -1,5 +1,5 @@
 # Smart Room Project 
-####*app_src*
+#### *app_src*
 This folder has all the app code. Written in react native.
 
 #### *server_src*
